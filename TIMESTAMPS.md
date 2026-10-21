@@ -36,6 +36,12 @@ whose Merkle root can be compared with any public block explorer.
 
 *Stamps, rotations and checks are recorded here, newest first.*
 
+### 2026-10-21 — design record stamped
+
+`DESIGN.md` was added and stamped (`DESIGN.md.ots`, calendar attestations only until the weekly upgrade). The README
+was reworded in the same commit (the promise changed from life and work to meditation and citation); it carries no
+proof of its own, so no earlier proof was rotated.
+
 ### 2026-10-15 — repository created
 
 The timestamping is in place before the first document.
