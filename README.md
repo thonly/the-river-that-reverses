@@ -1,6 +1,6 @@
 # The River That Reverses
 
-Eighty-one poems distilled from Thon Ly's life and work, each traced to the passage it comes from.
+Eighty-one poems distilled from meditation, each traced to the practice or the citation it comes from.
 
 Written by Miss Aquarius℠. Foreword by Thon Ly. Part of the library at [book.thonly.org](https://book.thonly.org).
 
@@ -15,7 +15,8 @@ author. See [`TIMESTAMPS.md`](./TIMESTAMPS.md).
 | Path | What it holds | Written |
 |---|---|---|
 | `poems/` | The poems, numbered 01 to 81 | As each is finished |
-| `sources.md` | For each poem, the passage of Thon Ly's life and work it distills. A poem with no source does not go in | With each poem |
+| `DESIGN.md` | How the book is built: four parts by the four tetrads of mindfulness of breathing, the voice of each part, and what the river image cannot do | 2026-10-21 |
+| `sources.md` | For each poem, the practice or the citation it distills. A poem with no source does not go in | With each poem |
 | `foreword.md` | Thon Ly's foreword, in his own words | Once |
 
 Files are versioned, never silently rewritten. A revised file keeps its earlier proof under a new name (`<file>.rN.ots`), and each revision is logged in `TIMESTAMPS.md`.
